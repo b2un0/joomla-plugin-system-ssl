@@ -7,7 +7,7 @@
     <license>GNU/GPLv3 http://www.gnu.org/licenses/gpl-3.0.html</license>
     <authorEmail>branko.wilhelm@gmail.com</authorEmail>
     <authorUrl>www.z-index.net</authorUrl>
-    <version>@REVISION</version>
+    <version>@REVISION@</version>
     <description>Redirect everything to SSL but not urls matched regular expression.</description>
     <files>
         <filename plugin="ssl">ssl.php</filename>
